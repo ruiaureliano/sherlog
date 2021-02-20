@@ -42,7 +42,7 @@ This will print
 ```
 ## My Use Case
 
-So i want to add logs as I am coding, but i dont want it allways show in my console, so this is what I do
+So I want to add logs as I am coding, but I don't want it always shows in my console, so this is what I do
 
 ```swift
 log.print = .min //.min format please (will turn later to .none)
